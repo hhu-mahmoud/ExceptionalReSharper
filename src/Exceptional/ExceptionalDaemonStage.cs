@@ -41,7 +41,7 @@ namespace ReSharper.Exceptional.MF
     /// marks this type so that it will be automatically loaded by ReSharper. To work properly the
     /// marked type must implement <see cref="IDaemonStage" /> interface.
     /// </remarks>
-    [DaemonStage]
+    [DaemonStage(StagesBefore = new [] {typeof(FilteringHighlightingDaemonStage)})]
     public class ExceptionalDaemonStage : CSharpDaemonStageBase
     {
         #region methods
