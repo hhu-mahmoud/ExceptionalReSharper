@@ -58,16 +58,16 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="JetBrains.Annotations">
-      <Version>2024.3.0</Version>
+      <Version>2025.2.2</Version>
     </PackageReference>
     <PackageReference Include="JetBrains.Lifetimes">
-      <Version>2025.1.1</Version>
+      <Version>2025.3.1</Version>
     </PackageReference>
     <PackageReference Include="JetBrains.RdFramework">
-      <Version>2025.1.1</Version>
+      <Version>2025.3.1</Version>
     </PackageReference>
     <PackageReference Include="JetBrains.ReSharper.SDK" Version="2021.3.2">
-      <Version>2024.3.5</Version>
+      <Version>2025.2.3</Version>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
