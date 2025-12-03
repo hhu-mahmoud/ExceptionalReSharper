@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>ExceptionalDevs.Exceptional.MF</id>
-    <version>2025.4.0</version>
+    <version>2025.4.1</version>
     <title>Exceptional by MF</title>
     <description>Analyzes thrown and documented C# exceptions and suggests improvements.</description>
     <authors>Mahmoud Fakhoury</authors>
@@ -11,7 +11,7 @@
     <tags>Exception XMLdoc</tags>
     <licenseUrl>https://github.com/hhu-mahmoud/ExceptionalReSharper/blob/master/LICENSE.md</licenseUrl>
     <dependencies>
-      <dependency id="Wave" version="[252]" />
+      <dependency id="Wave" version="[253]" />
     </dependencies>
   </metadata>
   <files>
