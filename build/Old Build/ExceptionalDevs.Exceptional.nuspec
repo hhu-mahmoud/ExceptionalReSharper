@@ -2,16 +2,16 @@
 <package>
   <metadata>
     <id>ExceptionalDevs.Exceptional.MF</id>
-    <version>2025.4.1</version>
+    <version>2026.1.4</version>
     <title>Exceptional by MF</title>
     <description>Analyzes thrown and documented C# exceptions and suggests improvements.</description>
     <authors>Mahmoud Fakhoury</authors>
     <projectUrl>https://github.com/hhu-mahmoud/ExceptionalReSharper</projectUrl>
-    <copyright>Copyright © 2025 MF</copyright>
+    <copyright>Copyright © 2026 MF</copyright>
     <tags>Exception XMLdoc</tags>
     <licenseUrl>https://github.com/hhu-mahmoud/ExceptionalReSharper/blob/master/LICENSE.md</licenseUrl>
     <dependencies>
-      <dependency id="Wave" version="[253]" />
+      <dependency id="Wave" version="[261]" />
     </dependencies>
   </metadata>
   <files>

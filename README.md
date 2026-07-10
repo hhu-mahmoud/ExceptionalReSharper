@@ -2,7 +2,7 @@
 
 Exceptional is an extension for ReSharper which analyzes thrown and documented C# exceptions and suggests improvements.
 
-**Last Update: Date: 03.12.2025 - Resharper SDK 2025.3.0.3** Wave 253
+**Last Update: Date: 10.07.2026 - Resharper SDK 2026.1.4** Wave 261
 
 ### Motivation
 
